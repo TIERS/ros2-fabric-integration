@@ -20,7 +20,7 @@ You can refer to our [paper preprint](https://arxiv.org/abs/2203.03426) for more
 
 Examples for Integrating ROS 2 and Hyperledger Fabric
 
-[conceptual figure](fig/ros2fabric.png)
+![](fig/ros2fabric.png)
 
 ## What is the purpose?
 
